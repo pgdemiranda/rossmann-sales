@@ -166,7 +166,7 @@ Among the different possibilities for fine tuning the Machine Learning model, we
 
 ## 7.0. Conclusion
 
-The prediction for the next six weeks' sales of Rossmann's stores were made following the stages of the first cycle with a mean absolute error of 649.36, and a prediction of €285,338,016.00. With this mean absolute error (MAE), it is possible to extrapolate that our best and worst case scenarios are predicted to be €286,065,876.78 and €284,610,153.28 euros respectively.
+The prediction for the next six weeks' sales of Rossmann's stores were made following the stages of the first cycle with a mean absolute error of 649.36, and a prediction of €285,338,016.00. With this mean absolute error (MAE), it is possible to extrapolate that our best and worst case scenarios are predicted to be €286,065,876.78 and €284,610,153.28 respectively.
 
 The prediction of each store can be checked in the final "csv" spreadsheet with a column containing the predictions and a link to the Telegram Messenger where it is possible to simply write down the id number of any store and receive its prediction for the next six weeks.
 
